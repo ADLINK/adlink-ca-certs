@@ -15,9 +15,9 @@ Contents of key_pass.txt and serial
 
 key_pass.txt: (default is test, test)
 
-  `!mysecretkey`
-  `!mysecretkey`
+  !mysecretkey
+  !mysecretkey
 
 serial: (default is 12345678)
 
-  `20260101`
+  20260101
